@@ -1,0 +1,1856 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_optional",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "verify_jwt_in_request",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "recettes_bp",
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "isExtraImport": true,
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "Inventaire",
+        "importPath": "app.models.inventaire",
+        "description": "app.models.inventaire",
+        "isExtraImport": true,
+        "detail": "app.models.inventaire",
+        "documentation": {}
+    },
+    {
+        "label": "Inventaire",
+        "importPath": "app.models.inventaire",
+        "description": "app.models.inventaire",
+        "isExtraImport": true,
+        "detail": "app.models.inventaire",
+        "documentation": {}
+    },
+    {
+        "label": "InventaireIngredient",
+        "importPath": "app.models.inventaire_ingredient",
+        "description": "app.models.inventaire_ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.inventaire_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "ListeCoursesItem",
+        "importPath": "app.models.liste_courses_item",
+        "description": "app.models.liste_courses_item",
+        "isExtraImport": true,
+        "detail": "app.models.liste_courses_item",
+        "documentation": {}
+    },
+    {
+        "label": "ListeCourses",
+        "importPath": "app.models.liste_courses",
+        "description": "app.models.liste_courses",
+        "isExtraImport": true,
+        "detail": "app.models.liste_courses",
+        "documentation": {}
+    },
+    {
+        "label": "ListeCourses",
+        "importPath": "app.models.liste_courses",
+        "description": "app.models.liste_courses",
+        "isExtraImport": true,
+        "detail": "app.models.liste_courses",
+        "documentation": {}
+    },
+    {
+        "label": "Recette",
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "isExtraImport": true,
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "Recette",
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "isExtraImport": true,
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "Recette",
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "isExtraImport": true,
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "Recette",
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "isExtraImport": true,
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteIngredient",
+        "importPath": "app.models.recette_ingredient",
+        "description": "app.models.recette_ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.recette_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteIngredient",
+        "importPath": "app.models.recette_ingredient",
+        "description": "app.models.recette_ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.recette_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteIngredient",
+        "importPath": "app.models.recette_ingredient",
+        "description": "app.models.recette_ingredient",
+        "isExtraImport": true,
+        "detail": "app.models.recette_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteUtilisateur",
+        "importPath": "app.models.recette_utilisateur",
+        "description": "app.models.recette_utilisateur",
+        "isExtraImport": true,
+        "detail": "app.models.recette_utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteUtilisateur",
+        "importPath": "app.models.recette_utilisateur",
+        "description": "app.models.recette_utilisateur",
+        "isExtraImport": true,
+        "detail": "app.models.recette_utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "Etape",
+        "importPath": "app.models.etape",
+        "description": "app.models.etape",
+        "isExtraImport": true,
+        "detail": "app.models.etape",
+        "documentation": {}
+    },
+    {
+        "label": "sample",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "Utilisateur",
+        "importPath": "app.models.utilisateur",
+        "description": "app.models.utilisateur",
+        "isExtraImport": true,
+        "detail": "app.models.utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "Utilisateur",
+        "importPath": "app.models.utilisateur",
+        "description": "app.models.utilisateur",
+        "isExtraImport": true,
+        "detail": "app.models.utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "get_swaggerui_blueprint",
+        "importPath": "flask_swagger_ui",
+        "description": "flask_swagger_ui",
+        "isExtraImport": true,
+        "detail": "flask_swagger_ui",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Etape",
+        "kind": 6,
+        "importPath": "app.models.etape",
+        "description": "app.models.etape",
+        "peekOfCode": "class Etape(db.Model):\n    __tablename__ = \"etapes\"\n    id_etape = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_recette = db.Column(db.Integer, db.ForeignKey(\"recettes.id_recette\"), nullable=False)\n    ordre = db.Column(db.Integer, nullable=False)\n    instruction = db.Column(db.Text, nullable=False)\n    # Relations\n    recette = db.relationship(\"Recette\", back_populates=\"etapes\")\n    def to_dict(self):\n        return {",
+        "detail": "app.models.etape",
+        "documentation": {}
+    },
+    {
+        "label": "Ingredient",
+        "kind": 6,
+        "importPath": "app.models.ingredient",
+        "description": "app.models.ingredient",
+        "peekOfCode": "class Ingredient(db.Model):\n    __tablename__ = \"ingredients\"\n    id_ingredient = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    nom = db.Column(db.String(100), nullable=False, unique=True)\n    unite = db.Column(db.String(20), nullable=True)  # Ex. \"g\", \"L\", \"unités\"\n    prix_unitaire = db.Column(db.Float, nullable=True)  # Prix en euros\n    def to_dict(self):\n        return {\n            \"id_ingredient\": self.id_ingredient,\n            \"nom\": self.nom,",
+        "detail": "app.models.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "Inventaire",
+        "kind": 6,
+        "importPath": "app.models.inventaire",
+        "description": "app.models.inventaire",
+        "peekOfCode": "class Inventaire(db.Model):\n    __tablename__ = \"inventaires\"\n    id_inventaire = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    nom = db.Column(db.String(100), nullable=False)\n    publique = db.Column(db.Boolean, default=False)\n    id_utilisateur = db.Column(db.Integer, db.ForeignKey(\"utilisateurs.id_utilisateur\"), nullable=False)\n    # Relations\n    ingredients = db.relationship(\"InventaireIngredient\", back_populates=\"inventaire\", cascade=\"all, delete-orphan\")\n    proprietaire = db.relationship(\"Utilisateur\", back_populates=\"inventaires\")\n    def to_dict(self):",
+        "detail": "app.models.inventaire",
+        "documentation": {}
+    },
+    {
+        "label": "InventaireIngredient",
+        "kind": 6,
+        "importPath": "app.models.inventaire_ingredient",
+        "description": "app.models.inventaire_ingredient",
+        "peekOfCode": "class InventaireIngredient(db.Model):\n    __tablename__ = \"inventaire_ingredients\"\n    id_inventaire_ingredient = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_inventaire = db.Column(db.Integer, db.ForeignKey(\"inventaires.id_inventaire\"), nullable=False)\n    id_ingredient = db.Column(db.Integer, db.ForeignKey(\"ingredients.id_ingredient\"), nullable=False)\n    quantite_disponible = db.Column(db.Float, nullable=False)\n    unite = db.Column(db.String(20), nullable=False)\n    prix_unitaire = db.Column(db.Float, nullable=True)  # Optionnel, pour suivi des coûts\n    # Relations\n    inventaire = db.relationship(\"Inventaire\", back_populates=\"ingredients\")",
+        "detail": "app.models.inventaire_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "ListeCourses",
+        "kind": 6,
+        "importPath": "app.models.liste_courses",
+        "description": "app.models.liste_courses",
+        "peekOfCode": "class ListeCourses(db.Model):\n    __tablename__ = \"liste_courses\"\n    id_liste = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    nom = db.Column(db.String(100), nullable=False)\n    date_creation = db.Column(db.DateTime, default=db.func.current_timestamp())\n    id_utilisateur = db.Column(db.Integer, db.ForeignKey(\"utilisateurs.id_utilisateur\"), nullable=False)\n    id_recette = db.Column(db.Integer, db.ForeignKey(\"recettes.id_recette\"), nullable=True)\n    id_inventaire = db.Column(db.Integer, db.ForeignKey(\"inventaires.id_inventaire\"), nullable=True)  # Nouveau\n    # Relations\n    items = db.relationship(\"ListeCoursesItem\", back_populates=\"liste\", cascade=\"all, delete-orphan\")",
+        "detail": "app.models.liste_courses",
+        "documentation": {}
+    },
+    {
+        "label": "ListeCoursesItem",
+        "kind": 6,
+        "importPath": "app.models.liste_courses_item",
+        "description": "app.models.liste_courses_item",
+        "peekOfCode": "class ListeCoursesItem(db.Model):\n    __tablename__ = \"liste_courses_items\"\n    id_item = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_liste = db.Column(db.Integer, db.ForeignKey(\"liste_courses.id_liste\"), nullable=False)\n    id_ingredient = db.Column(db.Integer, db.ForeignKey(\"ingredients.id_ingredient\"), nullable=False)\n    quantite = db.Column(db.Float, nullable=False)\n    unite = db.Column(db.String(20), nullable=False)\n    # Relations\n    liste = db.relationship(\"ListeCourses\", back_populates=\"items\")\n    ingredient = db.relationship(\"Ingredient\")",
+        "detail": "app.models.liste_courses_item",
+        "documentation": {}
+    },
+    {
+        "label": "Recette",
+        "kind": 6,
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "peekOfCode": "class Recette(db.Model):\n    __tablename__ = \"recettes\"\n    id_recette = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    titre = db.Column(db.String(100), nullable=False)\n    description = db.Column(db.Text, nullable=True)\n    date_creation = db.Column(db.DateTime, default=db.func.current_timestamp())\n    id_utilisateur = db.Column(db.Integer, db.ForeignKey(\"utilisateurs.id_utilisateur\"), nullable=False)\n    publique = db.Column(db.Boolean, default=False)\n    temps_preparation = db.Column(db.Integer, nullable=True)  # En minutes\n    temps_cuisson = db.Column(db.Integer, nullable=True)  # En minutes",
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.models.recette",
+        "description": "app.models.recette",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass Recette(db.Model):\n    __tablename__ = \"recettes\"\n    id_recette = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    titre = db.Column(db.String(100), nullable=False)\n    description = db.Column(db.Text, nullable=True)\n    date_creation = db.Column(db.DateTime, default=db.func.current_timestamp())\n    id_utilisateur = db.Column(db.Integer, db.ForeignKey(\"utilisateurs.id_utilisateur\"), nullable=False)\n    publique = db.Column(db.Boolean, default=False)\n    temps_preparation = db.Column(db.Integer, nullable=True)  # En minutes",
+        "detail": "app.models.recette",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteIngredient",
+        "kind": 6,
+        "importPath": "app.models.recette_ingredient",
+        "description": "app.models.recette_ingredient",
+        "peekOfCode": "class RecetteIngredient(db.Model):\n    __tablename__ = \"recette_ingredients\"\n    id_recette_ingredient = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_recette = db.Column(db.Integer, db.ForeignKey(\"recettes.id_recette\"), nullable=False)\n    id_ingredient = db.Column(db.Integer, db.ForeignKey(\"ingredients.id_ingredient\"), nullable=False)\n    quantite = db.Column(db.Float, nullable=False)\n    unite = db.Column(db.String(20), nullable=False)\n    # Relations\n    recette = db.relationship(\"Recette\", back_populates=\"ingredients\")\n    ingredient = db.relationship(\"Ingredient\")",
+        "detail": "app.models.recette_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.models.recette_ingredient",
+        "description": "app.models.recette_ingredient",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass RecetteIngredient(db.Model):\n    __tablename__ = \"recette_ingredients\"\n    id_recette_ingredient = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_recette = db.Column(db.Integer, db.ForeignKey(\"recettes.id_recette\"), nullable=False)\n    id_ingredient = db.Column(db.Integer, db.ForeignKey(\"ingredients.id_ingredient\"), nullable=False)\n    quantite = db.Column(db.Float, nullable=False)\n    unite = db.Column(db.String(20), nullable=False)\n    # Relations\n    recette = db.relationship(\"Recette\", back_populates=\"ingredients\")",
+        "detail": "app.models.recette_ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "RecetteUtilisateur",
+        "kind": 6,
+        "importPath": "app.models.recette_utilisateur",
+        "description": "app.models.recette_utilisateur",
+        "peekOfCode": "class RecetteUtilisateur(db.Model):\n    __tablename__ = \"recette_utilisateur\"\n    id = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    id_recette = db.Column(db.Integer, db.ForeignKey(\"recettes.id_recette\"), nullable=False)\n    id_utilisateur = db.Column(db.Integer, db.ForeignKey(\"utilisateurs.id_utilisateur\"), nullable=False)\n    date_enregistrement = db.Column(db.DateTime, default=db.func.current_timestamp())\n    # Relations\n    recette = db.relationship(\"Recette\", back_populates=\"utilisateurs\")\n    utilisateur = db.relationship(\"Utilisateur\", back_populates=\"recettes_enregistrees\")\n    def to_dict(self):",
+        "detail": "app.models.recette_utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "Utilisateur",
+        "kind": 6,
+        "importPath": "app.models.utilisateur",
+        "description": "app.models.utilisateur",
+        "peekOfCode": "class Utilisateur(db.Model):\n    __tablename__ = \"utilisateurs\"\n    id_utilisateur = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    email = db.Column(db.String(100), unique=True, nullable=False)\n    nom = db.Column(db.String(100), nullable=False)\n    mot_de_passe = db.Column(db.String(255), nullable=False)\n    # Relations\n    recettes = db.relationship(\"Recette\", back_populates=\"createur\")\n    inventaires = db.relationship(\"Inventaire\", back_populates=\"proprietaire\")\n    listes_courses = db.relationship(\"ListeCourses\", back_populates=\"utilisateur\")",
+        "detail": "app.models.utilisateur",
+        "documentation": {}
+    },
+    {
+        "label": "validate_email",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    return bool(re.match(pattern, email)), \"Format d'email invalide\" if not re.match(pattern, email) else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"\n    return True, \"\"\ndef validate_nom(nom):",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "validate_password",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"\n    return True, \"\"\ndef validate_nom(nom):\n    if not nom:\n        return False, \"Le nom est requis\"\n    if len(nom) > 100:",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "validate_nom",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def validate_nom(nom):\n    if not nom:\n        return False, \"Le nom est requis\"\n    if len(nom) > 100:\n        return False, \"Le nom ne doit pas dépasser 100 caractères\"\n    return True, \"\"\n@auth_bp.route(\"/inscription\", methods=[\"POST\"])\ndef inscription():\n    try:\n        data = request.get_json()",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "inscription",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def inscription():\n    try:\n        data = request.get_json()\n        email, mot_de_passe, nom = data.get(\"email\", \"\").strip(), data.get(\"mot_de_passe\", \"\"), data.get(\"nom\",\n                                                                                                         \"\").strip()\n        email_valid, email_msg = validate_email(email)\n        if not email_valid:\n            return jsonify({\"message\": email_msg}), 400\n        if len(mot_de_passe) < 8:\n            return jsonify({\"message\": \"Mot de passe trop court (min 8 caractères)\"}), 400",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "connexion",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def connexion():\n    \"\"\"\n        Connexion d'un utilisateur\n        ---\n        tags:\n          - Authentification\n        parameters:\n          - in: body\n            name: body\n            required: true",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "refresh",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def refresh():\n    \"\"\"\n        Rafraîchir un token d'accès\n        ---\n        tags:\n          - Authentification\n        security:\n          - Bearer: []\n        responses:\n          200:",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "profil",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def profil():\n    \"\"\"\n    Récupérer ou mettre à jour le profil de l'utilisateur connecté\n    ---\n    tags:\n      - Authentification\n    responses:\n      '200':\n        description: Profil récupéré ou mis à jour avec succès.\n        content:",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "deconnexion",
+        "kind": 2,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "def deconnexion():\n    \"\"\"\n              Déconnecter l'utilisateur\n    ---\n    tags:\n      - Authentification\n    responses:\n      '200':\n        description: Déconnexion réussie.\n        content:",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "kind": 5,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "auth_bp = Blueprint(\"auth\", __name__)\n# Configurer le logging uniquement si pas en mode test\nif not hasattr(logging, \"auth_handler_configured\"):\n    logging.basicConfig(\n        level=logging.INFO,\n        format=\"%(asctime)s - %(levelname)s - %(message)s\",\n        handlers=[\n            logging.FileHandler(\"auth.log\"),\n            logging.StreamHandler()\n        ]",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Fonctions de validation (inchangées)\ndef validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    return bool(re.match(pattern, email)), \"Format d'email invalide\" if not re.match(pattern, email) else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"",
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "lister_ingredients",
+        "kind": 2,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "def lister_ingredients():\n    try:\n        page = request.args.get(\"page\", 1, type=int)\n        per_page = request.args.get(\"per_page\", 10, type=int)\n        search = request.args.get(\"search\", \"\", type=str)\n        query = Ingredient.query\n        if search:\n            query = query.filter(Ingredient.nom.ilike(f\"%{search}%\"))\n        pagination = query.paginate(page=page, per_page=per_page, error_out=False)\n        return jsonify({",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "ajouter_ingredient",
+        "kind": 2,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "def ajouter_ingredient():\n    try:\n        data = request.get_json()\n        logger.info(f\"Données reçues: {data}\")\n        if not data or not data.get(\"nom\"):\n            logger.warning(\"Nom manquant\")\n            return jsonify({\"message\": \"Le nom est requis\"}), 400\n        nom = data[\"nom\"].strip()\n        if Ingredient.query.filter_by(nom=nom).first():\n            logger.info(f\"Ingrédient existant: {nom}\")",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_ingredient",
+        "kind": 2,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "def obtenir_ingredient(id):\n    \"\"\"\n    Obtenir les détails d'un ingrédient spécifique\n    ---\n    tags:\n      - Ingredients\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "modifier_ingredient",
+        "kind": 2,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "def modifier_ingredient(id):\n    \"\"\"\n    Mettre à jour un ingrédient\n    ---\n    tags:\n      - Ingredients\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "supprimer_ingredient",
+        "kind": 2,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "def supprimer_ingredient(id):\n    \"\"\"\n    Supprimer un ingrédient\n    ---\n    tags:\n      - Ingredients\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ningredient_bp = Blueprint(\"ingredients\", __name__)\n@ingredient_bp.route(\"/ingredients\", methods=[\"GET\"])\n@jwt_required()  # Gardé pour limiter l'accès aux utilisateurs authentifiés\ndef lister_ingredients():\n    try:\n        page = request.args.get(\"page\", 1, type=int)\n        per_page = request.args.get(\"per_page\", 10, type=int)\n        search = request.args.get(\"search\", \"\", type=str)\n        query = Ingredient.query",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "ingredient_bp",
+        "kind": 5,
+        "importPath": "app.routes.ingredient",
+        "description": "app.routes.ingredient",
+        "peekOfCode": "ingredient_bp = Blueprint(\"ingredients\", __name__)\n@ingredient_bp.route(\"/ingredients\", methods=[\"GET\"])\n@jwt_required()  # Gardé pour limiter l'accès aux utilisateurs authentifiés\ndef lister_ingredients():\n    try:\n        page = request.args.get(\"page\", 1, type=int)\n        per_page = request.args.get(\"per_page\", 10, type=int)\n        search = request.args.get(\"search\", \"\", type=str)\n        query = Ingredient.query\n        if search:",
+        "detail": "app.routes.ingredient",
+        "documentation": {}
+    },
+    {
+        "label": "convertir_unites",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def convertir_unites(quantite, unite_source, unite_cible=\"g\"):\n    conversions = {\"g\": 1, \"kg\": 1000, \"ml\": 1, \"l\": 1000, \"cl\": 10, \"unites\": 1}\n    unite_source = unite_source.lower()\n    unite_cible = unite_cible.lower()\n    # Vérification des unités valides\n    if unite_source not in conversions or unite_cible not in conversions:\n        raise ValueError(f\"Unité invalide : {unite_source} ou {unite_cible}\")\n    # Conversion\n    quantite_base = quantite * conversions[unite_source]\n    return quantite_base / conversions[unite_cible]",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "creer_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def creer_inventaire():\n    try:\n        data = request.get_json()\n        if not data or not data.get(\"nom\") or len(data[\"nom\"].strip()) > 100:\n            return jsonify({\"message\": \"Le nom est requis et doit être ≤ 100 caractères\"}), 400\n        inventaire = Inventaire(\n            nom=data[\"nom\"].strip(),\n            id_utilisateur=int(get_jwt_identity()),\n            publique=data.get(\"publique\", False)\n        )",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "ajouter_ingredient_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def ajouter_ingredient_inventaire(id):\n    \"\"\"\n    Ajouter un ingrédient à un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "lister_inventaires",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def lister_inventaires():\n    \"\"\"\n    Lister les inventaires d'un utilisateur\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    responses:\n      '200':",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def obtenir_inventaire(id):\n    \"\"\"\n    Obtenir un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "modifier_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def modifier_inventaire(id):\n    \"\"\"\n    Modifier un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "generer_liste_courses",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def generer_liste_courses(id):\n    try:\n        id_utilisateur = int(get_jwt_identity())\n        inventaire = Inventaire.query.get_or_404(id)\n        if inventaire.id_utilisateur != id_utilisateur:\n            return jsonify({\"message\": \"Accès non autorisé à cet inventaire\"}), 403\n        id_recette = request.args.get(\"id_recette\", type=int)\n        if not id_recette:\n            return jsonify({\"message\": \"L'identifiant de la recette est requis\"}), 400\n        recette = Recette.query.get_or_404(id_recette)",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_liste_courses_pagination",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def obtenir_liste_courses_pagination():\n    \"\"\"\n    Lister les listes de courses d'un utilisateur avec pagination et recherche\n    ---\n    tags:\n      - Courses\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: page",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "supprimer_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def supprimer_inventaire(id):\n    \"\"\"\n    Supprimer un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "lister_courses_generale",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def lister_courses_generale():\n    \"\"\"\n    Lister les courses générales\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    responses:\n      '200':",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "creer_liste_courses",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def creer_liste_courses():\n    \"\"\"\n    Créer une liste de courses\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: body",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_liste_courses",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def obtenir_liste_courses(id):\n    \"\"\"\n    Obtenir une liste de courses spécifique\n    ---\n    tags:\n      - Courses\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "modifier_ingredient_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def modifier_ingredient_inventaire(id, id_ingredient):\n    \"\"\"\n    Modifier un ingrédient dans un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "supprimer_ingredient_inventaire",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def supprimer_ingredient_inventaire(id, id_ingredient):\n    \"\"\"\n    Supprimer un ingrédient d'un inventaire\n    ---\n    tags:\n      - Inventaires\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "validate_quantite",
+        "kind": 2,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "def validate_quantite(quantite):\n    pattern = r\"^\\d+\\s*(g|kg|cl|ml|unité?s)?$\"\n    return bool(re.match(pattern, quantite))",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "inventaire_bp",
+        "kind": 5,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "inventaire_bp = Blueprint(\"inventaires\", __name__)\nlogger = logging.getLogger(__name__)\nUNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\n# Fonction utilitaire pour convertir les unités\ndef convertir_unites(quantite, unite_source, unite_cible=\"g\"):\n    conversions = {\"g\": 1, \"kg\": 1000, \"ml\": 1, \"l\": 1000, \"cl\": 10, \"unites\": 1}\n    unite_source = unite_source.lower()\n    unite_cible = unite_cible.lower()\n    # Vérification des unités valides\n    if unite_source not in conversions or unite_cible not in conversions:",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nUNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\n# Fonction utilitaire pour convertir les unités\ndef convertir_unites(quantite, unite_source, unite_cible=\"g\"):\n    conversions = {\"g\": 1, \"kg\": 1000, \"ml\": 1, \"l\": 1000, \"cl\": 10, \"unites\": 1}\n    unite_source = unite_source.lower()\n    unite_cible = unite_cible.lower()\n    # Vérification des unités valides\n    if unite_source not in conversions or unite_cible not in conversions:\n        raise ValueError(f\"Unité invalide : {unite_source} ou {unite_cible}\")",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "UNITES_VALIDES",
+        "kind": 5,
+        "importPath": "app.routes.inventaires",
+        "description": "app.routes.inventaires",
+        "peekOfCode": "UNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\n# Fonction utilitaire pour convertir les unités\ndef convertir_unites(quantite, unite_source, unite_cible=\"g\"):\n    conversions = {\"g\": 1, \"kg\": 1000, \"ml\": 1, \"l\": 1000, \"cl\": 10, \"unites\": 1}\n    unite_source = unite_source.lower()\n    unite_cible = unite_cible.lower()\n    # Vérification des unités valides\n    if unite_source not in conversions or unite_cible not in conversions:\n        raise ValueError(f\"Unité invalide : {unite_source} ou {unite_cible}\")\n    # Conversion",
+        "detail": "app.routes.inventaires",
+        "documentation": {}
+    },
+    {
+        "label": "creer_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def creer_recette():\n    try:\n        data = request.get_json()\n        if not data or \"titre\" not in data or not data[\"titre\"]:\n            return jsonify({\"message\": \"Le titre est requis\"}), 400\n        id_utilisateur = int(get_jwt_identity())\n        nouvelle_recette = Recette(\n            titre=data[\"titre\"].strip(),\n            description=data.get(\"description\"),\n            id_utilisateur=id_utilisateur,",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def obtenir_recette(id):\n    try:\n        recette = Recette.query.get_or_404(id)\n        user_id = get_jwt_identity()\n        logger.debug(f\"Tentative accès recette {id} - Publique: {recette.publique}, User: {user_id}\")\n        if not recette.publique and (not user_id or recette.id_utilisateur != int(user_id)):\n            return jsonify({\"message\": \"Accès non autorisé\"}), 403\n        return jsonify({\"recette\": recette.to_dict()}), 200\n    except Exception as e:\n        logger.error(f\"Erreur récupération recette {id}: {str(e)}\", exc_info=True)",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes():\n    \"\"\"\n    Lister les recettes créées par l'utilisateur connecté (publiques ou privées)\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: page",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes_privees",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes_privees():\n    \"\"\"\n    Lister les recettes privées de l'utilisateur\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    responses:\n      '200':",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "supprimer_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def supprimer_recette(id):\n    \"\"\"\n    Supprimer une recette\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "modifier_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def modifier_recette(id):\n    try:\n        recette = Recette.query.get_or_404(id)\n        if recette.id_utilisateur != int(get_jwt_identity()):\n            return jsonify({\"message\": \"Non autorisé\"}), 403\n        data = request.get_json()\n        if not data or \"titre\" not in data or not data[\"titre\"]:\n            return jsonify({\"message\": \"Le titre est requis\"}), 400\n        recette.titre = data[\"titre\"].strip()\n        recette.description = data.get(\"description\", recette.description)",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "partager_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def partager_recette(id):\n    \"\"\"\n    Mettre à jour le statut public d'une recette\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes_publiques",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes_publiques():\n    \"\"\"\n    Lister toutes les recettes publiques, en excluant celles de l'utilisateur connecté si authentifié\n    ---\n    tags:\n      - Recettes\n    parameters:\n      - name: page\n        in: query\n        type: integer",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes_publiques_utilisateur",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes_publiques_utilisateur():\n    try:\n        page = request.args.get(\"page\", 1, type=int)\n        per_page = request.args.get(\"per_page\", 10, type=int)\n        titre_filter = request.args.get(\"titre\", \"\")\n        id_utilisateur = int(get_jwt_identity())\n        query = Recette.query.filter_by(id_utilisateur=id_utilisateur, publique=True)\n        if titre_filter:\n            query = query.filter(Recette.titre.ilike(f\"%{titre_filter}%\"))\n        pagination = query.paginate(page=page, per_page=per_page, error_out=False)",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "enregistrer_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def enregistrer_recette(id):\n    \"\"\"\n    Enregistrer une recette publique\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "supprimer_enregistrement_recette",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def supprimer_enregistrement_recette(id):\n    \"\"\"\n    Supprimer une recette enregistrée\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes_enregistrees",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes_enregistrees():\n    \"\"\"\n    Lister les recettes enregistrées\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    responses:\n      '200':",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "verifier_enregistrement",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def verifier_enregistrement(id):\n    \"\"\"\n    Vérifier si une recette est déjà enregistrée par l'utilisateur\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: id",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "obtenir_recettes_suggestions",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def obtenir_recettes_suggestions():\n    \"\"\"\n    Récupérer un échantillon de recettes publiques pour affichage sous forme de cartes\n    ---\n    tags:\n      - Recettes\n    parameters:\n      - name: limit\n        in: query\n        type: integer",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "lister_recettes_pour_courses",
+        "kind": 2,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "def lister_recettes_pour_courses():\n    \"\"\"\n    Lister les recettes personnelles et enregistrées de l'utilisateur pour les listes de courses\n    ---\n    tags:\n      - Recettes\n    security:\n      - bearerAuth: []\n    parameters:\n      - name: page",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "recettes_bp",
+        "kind": 5,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "recettes_bp = Blueprint(\"recettes\", __name__)\nlogger = logging.getLogger(__name__)\nUNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[\n        logging.FileHandler(\"recettes.log\"),\n        logging.StreamHandler()\n    ]",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nUNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[\n        logging.FileHandler(\"recettes.log\"),\n        logging.StreamHandler()\n    ]\n)",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "UNITES_VALIDES",
+        "kind": 5,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "UNITES_VALIDES = {\"g\", \"kg\", \"L\", \"mL\", \"cl\", \"unités\"}\nlogging.basicConfig(\n    level=logging.DEBUG,\n    format=\"%(asctime)s - %(levelname)s - %(message)s\",\n    handlers=[\n        logging.FileHandler(\"recettes.log\"),\n        logging.StreamHandler()\n    ]\n)\nlogger = logging.getLogger(__name__)",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.recettes",
+        "description": "app.routes.recettes",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Créer une recette\n@recettes_bp.route(\"/recettes\", methods=[\"POST\"])\n@jwt_required()\ndef creer_recette():\n    try:\n        data = request.get_json()\n        if not data or \"titre\" not in data or not data[\"titre\"]:\n            return jsonify({\"message\": \"Le titre est requis\"}), 400\n        id_utilisateur = int(get_jwt_identity())",
+        "detail": "app.routes.recettes",
+        "documentation": {}
+    },
+    {
+        "label": "rechercher",
+        "kind": 2,
+        "importPath": "app.routes.rechercher",
+        "description": "app.routes.rechercher",
+        "peekOfCode": "def rechercher():\n    try:\n        query = request.args.get(\"q\", \"\").strip()\n        if not query:\n            return jsonify({\"message\": \"Requête de recherche vide\", \"results\": []}), 400\n        results = []\n        # Recherche dans les recettes\n        recettes = Recette.query.filter(\n            (Recette.titre.ilike(f\"%{query}%\")) | (Recette.description.ilike(f\"%{query}%\"))\n        ).all()",
+        "detail": "app.routes.rechercher",
+        "documentation": {}
+    },
+    {
+        "label": "rechercher_bp",
+        "kind": 5,
+        "importPath": "app.routes.rechercher",
+        "description": "app.routes.rechercher",
+        "peekOfCode": "rechercher_bp = Blueprint(\"rechercher\", __name__)\n@rechercher_bp.route(\"/rechercher\", methods=[\"GET\"])\ndef rechercher():\n    try:\n        query = request.args.get(\"q\", \"\").strip()\n        if not query:\n            return jsonify({\"message\": \"Requête de recherche vide\", \"results\": []}), 400\n        results = []\n        # Recherche dans les recettes\n        recettes = Recette.query.filter(",
+        "detail": "app.routes.rechercher",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Config:\n    SECRET_KEY = os.getenv(\"SECRET_KEY\", \"b3e3b0e4-8180-4b27-8f26-bb9173c2fa45\")\n    SQLALCHEMY_DATABASE_URI = os.getenv(\"DATABASE_URL\", \"postgresql://postgres:1234@localhost:5432/data_recettes\")\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\", \"f4c5a682-d96b-4c24-bcdb-4fe6d927ff58\")\n    JWT_ACCESS_TOKEN_EXPIRES = timedelta(hours=1)\n    JWT_REFRESH_TOKEN_EXPIRES = timedelta(days=7)\n    # Configuration CORS simplifiée\n    CORS_ORIGINS = os.getenv('CORS_ORIGINS', 'http://localhost:3000,http://192.168.110.1:3000').split(',')\n    CORS_RESOURCES = {",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite', sa.String(length=20), nullable=True))\n        batch_op.drop_column('unite_par_defaut')\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite_par_defaut', sa.VARCHAR(length=20), autoincrement=False, nullable=True))",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite_par_defaut', sa.VARCHAR(length=20), autoincrement=False, nullable=True))\n        batch_op.drop_column('unite')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "revision = '5994e1f32397'\ndown_revision = '5a80873d8de3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite', sa.String(length=20), nullable=True))\n        batch_op.drop_column('unite_par_defaut')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "down_revision = '5a80873d8de3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite', sa.String(length=20), nullable=True))\n        batch_op.drop_column('unite_par_defaut')\n    # ### end Alembic commands ###\ndef downgrade():",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite', sa.String(length=20), nullable=True))\n        batch_op.drop_column('unite_par_defaut')\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('unite', sa.String(length=20), nullable=True))\n        batch_op.drop_column('unite_par_defaut')\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:",
+        "detail": "migrations.versions.5994e1f32397_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('etapes',\n    sa.Column('id_etape', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('id_recette', sa.Integer(), nullable=False),\n    sa.Column('ordre', sa.Integer(), nullable=False),\n    sa.Column('instruction', sa.Text(), nullable=False),\n    sa.ForeignKeyConstraint(['id_recette'], ['recettes.id_recette'], ),\n    sa.PrimaryKeyConstraint('id_etape')\n    )",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('etapes')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "revision = '5a80873d8de3'\ndown_revision = 'e2733437b718'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('etapes',\n    sa.Column('id_etape', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('id_recette', sa.Integer(), nullable=False),\n    sa.Column('ordre', sa.Integer(), nullable=False),",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "down_revision = 'e2733437b718'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('etapes',\n    sa.Column('id_etape', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('id_recette', sa.Integer(), nullable=False),\n    sa.Column('ordre', sa.Integer(), nullable=False),\n    sa.Column('instruction', sa.Text(), nullable=False),",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('etapes',\n    sa.Column('id_etape', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('id_recette', sa.Integer(), nullable=False),\n    sa.Column('ordre', sa.Integer(), nullable=False),\n    sa.Column('instruction', sa.Text(), nullable=False),\n    sa.ForeignKeyConstraint(['id_recette'], ['recettes.id_recette'], ),",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('etapes',\n    sa.Column('id_etape', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('id_recette', sa.Integer(), nullable=False),\n    sa.Column('ordre', sa.Integer(), nullable=False),\n    sa.Column('instruction', sa.Text(), nullable=False),\n    sa.ForeignKeyConstraint(['id_recette'], ['recettes.id_recette'], ),\n    sa.PrimaryKeyConstraint('id_etape')",
+        "detail": "migrations.versions.5a80873d8de3_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint('ingredients_id_utilisateur_fkey', type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')\n    with op.batch_alter_table('liste_courses', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_inventaire', sa.Integer(), nullable=True))\n        batch_op.create_foreign_key(None, 'inventaires', ['id_inventaire'], ['id_inventaire'])\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('liste_courses', schema=None) as batch_op:\n        batch_op.drop_constraint(None, type_='foreignkey')\n        batch_op.drop_column('id_inventaire')\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.INTEGER(), autoincrement=False, nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.BOOLEAN(), autoincrement=False, nullable=True))\n        batch_op.create_foreign_key('ingredients_id_utilisateur_fkey', 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "revision = '719034612fd3'\ndown_revision = 'a98f6a429bb3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint('ingredients_id_utilisateur_fkey', type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "down_revision = 'a98f6a429bb3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint('ingredients_id_utilisateur_fkey', type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')\n    with op.batch_alter_table('liste_courses', schema=None) as batch_op:",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint('ingredients_id_utilisateur_fkey', type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')\n    with op.batch_alter_table('liste_courses', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_inventaire', sa.Integer(), nullable=True))",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "description": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint('ingredients_id_utilisateur_fkey', type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')\n    with op.batch_alter_table('liste_courses', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_inventaire', sa.Integer(), nullable=True))\n        batch_op.create_foreign_key(None, 'inventaires', ['id_inventaire'], ['id_inventaire'])",
+        "detail": "migrations.versions.719034612fd3_ajout_de_la_colonne_id_inventaire_à_",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.Integer(), nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.Boolean(), nullable=True))\n        batch_op.create_foreign_key(None, 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.drop_constraint(None, type_='foreignkey')\n        batch_op.drop_column('publique')\n        batch_op.drop_column('id_utilisateur')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "revision = 'a98f6a429bb3'\ndown_revision = '5994e1f32397'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.Integer(), nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.Boolean(), nullable=True))\n        batch_op.create_foreign_key(None, 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "down_revision = '5994e1f32397'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.Integer(), nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.Boolean(), nullable=True))\n        batch_op.create_foreign_key(None, 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.Integer(), nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.Boolean(), nullable=True))\n        batch_op.create_foreign_key(None, 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])\n    # ### end Alembic commands ###\ndef downgrade():",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "description": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    with op.batch_alter_table('ingredients', schema=None) as batch_op:\n        batch_op.add_column(sa.Column('id_utilisateur', sa.Integer(), nullable=True))\n        batch_op.add_column(sa.Column('publique', sa.Boolean(), nullable=True))\n        batch_op.create_foreign_key(None, 'utilisateurs', ['id_utilisateur'], ['id_utilisateur'])\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "migrations.versions.a98f6a429bb3_add_id_utilisateur_and_publique_to_",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('ingredients',\n    sa.Column('id_ingredient', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('nom', sa.String(length=100), nullable=False),\n    sa.Column('unite_par_defaut', sa.String(length=20), nullable=True),\n    sa.Column('prix_unitaire', sa.Float(), nullable=True),\n    sa.PrimaryKeyConstraint('id_ingredient'),\n    sa.UniqueConstraint('nom')\n    )",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('liste_courses_items')\n    op.drop_table('recette_utilisateur')\n    op.drop_table('recette_ingredients')\n    op.drop_table('liste_courses')\n    op.drop_table('inventaire_ingredients')\n    op.drop_table('recettes')\n    op.drop_table('inventaires')\n    op.drop_table('utilisateurs')",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "revision = 'e2733437b718'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('ingredients',\n    sa.Column('id_ingredient', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('nom', sa.String(length=100), nullable=False),\n    sa.Column('unite_par_defaut', sa.String(length=20), nullable=True),",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('ingredients',\n    sa.Column('id_ingredient', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('nom', sa.String(length=100), nullable=False),\n    sa.Column('unite_par_defaut', sa.String(length=20), nullable=True),\n    sa.Column('prix_unitaire', sa.Float(), nullable=True),",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('ingredients',\n    sa.Column('id_ingredient', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('nom', sa.String(length=100), nullable=False),\n    sa.Column('unite_par_defaut', sa.String(length=20), nullable=True),\n    sa.Column('prix_unitaire', sa.Float(), nullable=True),\n    sa.PrimaryKeyConstraint('id_ingredient'),",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "description": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('ingredients',\n    sa.Column('id_ingredient', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('nom', sa.String(length=100), nullable=False),\n    sa.Column('unite_par_defaut', sa.String(length=20), nullable=True),\n    sa.Column('prix_unitaire', sa.Float(), nullable=True),\n    sa.PrimaryKeyConstraint('id_ingredient'),\n    sa.UniqueConstraint('nom')",
+        "detail": "migrations.versions.e2733437b718_ajoute_listecourses_et_corrige_relation",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine_url",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(\n            '%', '%%')\n    except AttributeError:\n        return str(get_engine().url).replace('%', '%%')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_db",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "AuthTestCase",
+        "kind": 6,
+        "importPath": "tests.test_auth",
+        "description": "tests.test_auth",
+        "peekOfCode": "class AuthTestCase(unittest.TestCase):\n    def setUp(self):\n        # Configurer le logging pour les tests\n        self.logger = logging.getLogger(\"test_logger\")\n        self.logger.setLevel(logging.INFO)\n        self.handler = logging.StreamHandler()\n        self.handler.setFormatter(logging.Formatter(\"%(asctime)s - %(levelname)s - %(message)s\"))\n        self.logger.addHandler(self.handler)\n        # Créer une application de test avec une base différente\n        self.app = create_app()",
+        "detail": "tests.test_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestRecettes",
+        "kind": 6,
+        "importPath": "tests.test_recettes",
+        "description": "tests.test_recettes",
+        "peekOfCode": "class TestRecettes(unittest.TestCase):\n    def setUp(self):\n        \"\"\"\n        Configure l'environnement de test avant chaque test.\n        Crée une base de données de test, un utilisateur unique et un token JWT.\n        \"\"\"\n        # Initialisation de l'application en mode test\n        self.app = create_app()\n        self.app.config[\"SQLALCHEMY_DATABASE_URI\"] = (\n            \"postgresql://postgres:1234@localhost:5432/recettes_db_test\"",
+        "detail": "tests.test_recettes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = create_app()\nif __name__ == \"__main__\":\n    app.run(debug=True, host=\"0.0.0.0\", port=5000)",
+        "detail": "app",
+        "documentation": {}
+    }
+]

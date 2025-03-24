@@ -1,0 +1,9 @@
+2025-03-08 21:59:28,297 - WARNING -  * Debugger is active!
+2025-03-08 21:59:28,301 - INFO -  * Debugger PIN: 824-803-791
+2025-03-08 22:00:05,500 - INFO -  * Detected change in 'E:\\projet_recette\\backend\\flaskProject1\\tests\\test_auth.py', reloading
+2025-03-08 22:00:06,227 - WARNING -  * Debugger is active!
+2025-03-08 22:00:06,231 - INFO -  * Debugger PIN: 824-803-791
+2025-03-08 22:02:25,781 - INFO -  * Detected change in 'E:\\projet_recette\\backend\\flaskProject1\\app\\routes\\auth.py', reloading
+2025-03-08 22:02:26,462 - WARNING -  * Debugger is active!
+2025-03-08 22:02:26,465 - INFO -  * Debugger PIN: 824-803-791
+2025-03-08 22:05:29,610 - INFO -  * Detected change in 'E:\\projet_recette\\backend\\flaskProject1\\app\\__init__.py', reloading
