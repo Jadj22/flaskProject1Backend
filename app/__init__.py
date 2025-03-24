@@ -80,4 +80,9 @@ def create_app():
         if request.method == "OPTIONS":
             return "", 200
 
+    # Ajouter une route pour la racine
+    @app.route('/')
+    def index():
+        return jsonify({"message": "Bienvenue sur l'API de Recettes !"})
+
     return app
