@@ -36077,3 +36077,6 @@ AttributeError: 'builtin_function_or_method' object has no attribute 'sample'
 2025-03-24 17:16:04,851 - INFO - 127.0.0.1 - - [24/Mar/2025 17:16:04] "POST /auth/deconnexion HTTP/1.1" 200 -
 2025-03-24 17:16:34,206 - INFO - 127.0.0.1 - - [24/Mar/2025 17:16:34] "GET /recettes/public?page=1&per_page=10 HTTP/1.1" 200 -
 2025-03-24 17:16:34,207 - INFO - 127.0.0.1 - - [24/Mar/2025 17:16:34] "GET /recettes/public?page=1&per_page=10 HTTP/1.1" 200 -
+2025-03-24 18:36:47,494 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 18:36:47,495 - INFO - [33mPress CTRL+C to quit[0m

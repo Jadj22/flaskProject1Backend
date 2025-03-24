@@ -1,17 +1,36 @@
 from datetime import timedelta
 import os
+from dotenv import load_dotenv
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 class Config:
-    SECRET_KEY = os.getenv("SECRET_KEY", "b3e3b0e4-8180-4b27-8f26-bb9173c2fa45")
-    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL", "postgresql://postgres:1234@localhost:5432/data_recettes")
+    # Récupération des variables d'environnement
+    SECRET_KEY = os.getenv("SECRET_KEY")
+    JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY")
+    DATABASE_URL = os.getenv("DATABASE_URL")
+
+    # Vérifier que les clés secrètes et la base de données sont définies
+    if not SECRET_KEY or not JWT_SECRET_KEY:
+        raise ValueError("SECRET_KEY et JWT_SECRET_KEY doivent être définis dans les variables d'environnement")
+    
+    if not DATABASE_URL:
+        raise ValueError("DATABASE_URL doit être défini dans les variables d'environnement")
+
+    # Correction de l'URL PostgreSQL pour Render
+    if DATABASE_URL.startswith("postgres://"):
+        DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
+    SQLALCHEMY_DATABASE_URI = DATABASE_URL
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-    JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY", "f4c5a682-d96b-4c24-bcdb-4fe6d927ff58")
+    # Configuration JWT
     JWT_ACCESS_TOKEN_EXPIRES = timedelta(hours=1)
     JWT_REFRESH_TOKEN_EXPIRES = timedelta(days=7)
 
-    # Configuration CORS simplifiée
-    CORS_ORIGINS = os.getenv('CORS_ORIGINS', 'http://localhost:3000,http://192.168.110.1:3000').split(',')
+    # Configuration CORS
+    CORS_ORIGINS = os.getenv('CORS_ORIGINS', 'http://localhost:3000').split(',')
     CORS_RESOURCES = {
         r"/*": {
             "origins": CORS_ORIGINS,

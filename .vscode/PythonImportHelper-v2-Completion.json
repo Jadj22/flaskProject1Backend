@@ -685,6 +685,14 @@
         "documentation": {}
     },
     {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
         "label": "op",
         "importPath": "alembic",
         "description": "alembic",
@@ -1480,7 +1488,7 @@
         "kind": 6,
         "importPath": "app.config",
         "description": "app.config",
-        "peekOfCode": "class Config:\n    SECRET_KEY = os.getenv(\"SECRET_KEY\", \"b3e3b0e4-8180-4b27-8f26-bb9173c2fa45\")\n    SQLALCHEMY_DATABASE_URI = os.getenv(\"DATABASE_URL\", \"postgresql://postgres:1234@localhost:5432/data_recettes\")\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\", \"f4c5a682-d96b-4c24-bcdb-4fe6d927ff58\")\n    JWT_ACCESS_TOKEN_EXPIRES = timedelta(hours=1)\n    JWT_REFRESH_TOKEN_EXPIRES = timedelta(days=7)\n    # Configuration CORS simplifiée\n    CORS_ORIGINS = os.getenv('CORS_ORIGINS', 'http://localhost:3000,http://192.168.110.1:3000').split(',')\n    CORS_RESOURCES = {",
+        "peekOfCode": "class Config:\n    # Récupération des variables d'environnement\n    SECRET_KEY = os.getenv(\"SECRET_KEY\")\n    JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\")\n    DATABASE_URL = os.getenv(\"DATABASE_URL\")\n    # Vérifier que les clés secrètes et la base de données sont définies\n    if not SECRET_KEY or not JWT_SECRET_KEY:\n        raise ValueError(\"SECRET_KEY et JWT_SECRET_KEY doivent être définis dans les variables d'environnement\")\n    if not DATABASE_URL:\n        raise ValueError(\"DATABASE_URL doit être défini dans les variables d'environnement\")",
         "detail": "app.config",
         "documentation": {}
     },
