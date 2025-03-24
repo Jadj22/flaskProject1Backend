@@ -212,22 +212,6 @@
         "documentation": {}
     },
     {
-        "label": "generate_password_hash",
-        "importPath": "werkzeug.security",
-        "description": "werkzeug.security",
-        "isExtraImport": true,
-        "detail": "werkzeug.security",
-        "documentation": {}
-    },
-    {
-        "label": "check_password_hash",
-        "importPath": "werkzeug.security",
-        "description": "werkzeug.security",
-        "isExtraImport": true,
-        "detail": "werkzeug.security",
-        "documentation": {}
-    },
-    {
         "label": "re",
         "kind": 6,
         "isExtraImport": true,
@@ -382,22 +366,6 @@
     },
     {
         "label": "jwt_required",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
-        "isExtraImport": true,
-        "detail": "flask_jwt_extended",
-        "documentation": {}
-    },
-    {
-        "label": "get_jwt_identity",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
-        "isExtraImport": true,
-        "detail": "flask_jwt_extended",
-        "documentation": {}
-    },
-    {
-        "label": "jwt_optional",
         "importPath": "flask_jwt_extended",
         "description": "flask_jwt_extended",
         "isExtraImport": true,
@@ -984,7 +952,7 @@
         "kind": 2,
         "importPath": "app.routes.auth",
         "description": "app.routes.auth",
-        "peekOfCode": "def validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    return bool(re.match(pattern, email)), \"Format d'email invalide\" if not re.match(pattern, email) else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"\n    return True, \"\"\ndef validate_nom(nom):",
+        "peekOfCode": "def validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    match = re.match(pattern, email)\n    return bool(match), \"Format d'email invalide\" if not match else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"\n    return True, \"\"",
         "detail": "app.routes.auth",
         "documentation": {}
     },
@@ -1065,7 +1033,7 @@
         "kind": 5,
         "importPath": "app.routes.auth",
         "description": "app.routes.auth",
-        "peekOfCode": "logger = logging.getLogger(__name__)\n# Fonctions de validation (inchangées)\ndef validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    return bool(re.match(pattern, email)), \"Format d'email invalide\" if not re.match(pattern, email) else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:\n        return False, \"Le mot de passe doit contenir au moins 8 caractères\"",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Fonctions de validation (inchangées)\ndef validate_email(email):\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    match = re.match(pattern, email)\n    return bool(match), \"Format d'email invalide\" if not match else \"\"\ndef validate_password(password):\n    if not password:\n        return True, \"\"  # Allow empty password for optional updates\n    if len(password) < 8:",
         "detail": "app.routes.auth",
         "documentation": {}
     },

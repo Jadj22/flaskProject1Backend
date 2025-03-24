@@ -7,6 +7,7 @@ from flasgger import Swagger
 import logging
 from .config import Config
 
+
 db = SQLAlchemy()
 jwt = JWTManager()
 migrate = Migrate()

@@ -2,10 +2,8 @@ import re
 from flask import Blueprint, request, jsonify
 from ..models.utilisateur import Utilisateur
 from .. import db
-from flask_jwt_extended import create_access_token, create_refresh_token, jwt_required, get_jwt_identity
+from flask_jwt_extended import create_access_token, create_refresh_token, jwt_required, get_jwt_identity,verify_jwt_in_request
 import logging
-from flask_jwt_extended import jwt_optional, get_jwt_identity, verify_jwt_in_request
-from werkzeug.security import generate_password_hash, check_password_hash
 
 auth_bp = Blueprint("auth", __name__)
 
@@ -26,7 +24,8 @@ logger = logging.getLogger(__name__)
 # Fonctions de validation (inchangées)
 def validate_email(email):
     pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
-    return bool(re.match(pattern, email)), "Format d'email invalide" if not re.match(pattern, email) else ""
+    match = re.match(pattern, email)
+    return bool(match), "Format d'email invalide" if not match else ""
 
 
 def validate_password(password):
